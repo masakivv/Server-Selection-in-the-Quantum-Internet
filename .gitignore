@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+
+# --- generated outputs / figures (adjust as needed) ---
+sim/src/*.pdf
+sim/src/*.png
+sim/src/output/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
